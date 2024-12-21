@@ -28,7 +28,7 @@ Install local mysql server -v 8.0.25, then create a user with credentials (you c
 
 Clone the repository:
 
-<pre>git clone https://github.com/purshink/Spring-Boot-Thymeleaf-App</pre>
+<pre>https://github.com/MedIheb-Z/SpringBoot-hoobies.git</pre>
 Navigate to the newly created folder:
 
 <pre>cd Spring-Boot-Thymeleaf-App</pre>
